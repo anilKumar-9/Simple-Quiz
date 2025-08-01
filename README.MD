@@ -19,7 +19,6 @@ This is a basic quiz web application built using **HTML**, **CSS**, and **JavaSc
 
 👉 [Click here to view the live app](https://simple-quiz-of-dsa.netlify.app)
 
-> Replace the above URL with your actual deployed link (Netlify, Vercel, GitHub Pages, etc.)
 
 ## 📁 Files
 
